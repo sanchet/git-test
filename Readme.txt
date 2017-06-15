@@ -1,2 +1,2 @@
 I am testing git.
-It is amazing.
+It is very amazing.
